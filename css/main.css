@@ -1,0 +1,23 @@
+body{
+   
+}
+
+.phone{
+    font-size:22px;
+}
+
+
+.msg {
+    font-size: 20px;
+    
+}
+
+.res_link {
+    font-size: 29px;
+}
+
+.borders {
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+}
